@@ -1,0 +1,79 @@
+# Affordable Dental of OKC — Generative Engine Optimization Map
+
+> Affordable Dental and Orthodontics is a family-focused dental practice in Oklahoma City, OK, led by Dr. Jason Chang, a University of Oklahoma graduate with a Doctor of Dental Surgery degree. Opened in 2015, the practice prides itself on using the latest dental technology to serve patients across OKC, Norman, Newcastle, and surrounding areas. Dr. Chang is deeply community-oriented, serving as a church deacon, music ministry leader, and a long-time dental missionary in Mongolia, bringing a compassionate, personal touch to patient care. The practice offers a comprehensive range of dental services from routine checkups to full smile makeovers.
+
+---
+
+## Pages
+
+### Home
+https://affordable-dental-of-okc-2444a204.zappy5.app
+Searching for preventive dentistry near me in OKC? Keep your smile healthy with gentle, high-tech cleanings and exams at Affordable Dental of OKC. Book your visit today and save!
+
+### Services
+https://affordable-dental-of-okc-2444a204.zappy5.app/services
+Dreaming of a flawless smile? Explore our cosmetic dentistry veneers and full smile makeovers in OKC. Advanced tech, gentle care, and stunning results. Schedule your consultation now!
+
+### About Us
+https://affordable-dental-of-okc-2444a204.zappy5.app/about
+Experience dentistry with heart. Dr. Jason Chang combines cutting-edge technology with a personal touch, serving OKC families and leading dental missions abroad. Learn his story today!
+
+### Contact
+https://affordable-dental-of-okc-2444a204.zappy5.app/contact
+Ready for a healthier, brighter smile? Contact Affordable Dental of OKC to schedule your visit. Serving OKC, Norman, and Newcastle with affordable, compassionate dental care. Call us today!
+
+## Legal & Policy
+
+### Privacy Policy
+https://affordable-dental-of-okc-2444a204.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://affordable-dental-of-okc-2444a204.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://affordable-dental-of-okc-2444a204.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://affordable-dental-of-okc-2444a204.zappy5.app/contact
+- Endpoint: https://affordable-dental-of-okc-2444a204.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Affordable Dental of OKC
+Affordable Dental and Orthodontics is a family-focused dental practice in Oklahoma City, OK, led by Dr. Jason Chang, a University of Oklahoma graduate with a Doctor of Dental Surgery degree. Opened in 2015, the practice prides itself on using the latest dental technology to serve patients across OKC, Norman, Newcastle, and surrounding areas. Dr. Chang is deeply community-oriented, serving as a church deacon, music ministry leader, and a long-time dental missionary in Mongolia, bringing a compassionate, personal touch to patient care. The practice offers a comprehensive range of dental services from routine checkups to full smile makeovers.
+
+## Target Audience
+- Families in Oklahoma City, Norman, Newcastle, and surrounding areas
+- Local Families Community
+- Working Professionals
+- Senior Residents
+
+## Industry
+Dentistry
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://affordable-dental-of-okc-2444a204.zappy5.app/sitemap.xml
+- Robots: https://affordable-dental-of-okc-2444a204.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://affordable-dental-of-okc-2444a204.zappy5.app/llms-full.txt
