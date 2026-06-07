@@ -6464,6 +6464,14 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+.home-cta-section .home-cta-section__address a, .home-cta-section .home-cta-section__phone a {
+  color: #FFFFFF !important;
+}
+
+.home-cta-section .home-cta-section__address i, .home-cta-section .home-cta-section__phone i {
+  color: #FFFFFF !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
