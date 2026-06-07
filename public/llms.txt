@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://affordable-dental-of-okc-2444a204.zappy5.app
+https://example.com
 Searching for preventive dentistry near me in OKC? Keep your smile healthy with gentle, high-tech cleanings and exams at Affordable Dental of OKC. Book your visit today and save!
 
 ### Services
-https://affordable-dental-of-okc-2444a204.zappy5.app/services
+https://example.com/services
 Dreaming of a flawless smile? Explore our cosmetic dentistry veneers and full smile makeovers in OKC. Advanced tech, gentle care, and stunning results. Schedule your consultation now!
 
 ### About Us
-https://affordable-dental-of-okc-2444a204.zappy5.app/about
+https://example.com/about
 Experience dentistry with heart. Dr. Jason Chang combines cutting-edge technology with a personal touch, serving OKC families and leading dental missions abroad. Learn his story today!
 
 ### Contact
-https://affordable-dental-of-okc-2444a204.zappy5.app/contact
+https://example.com/contact
 Ready for a healthier, brighter smile? Contact Affordable Dental of OKC to schedule your visit. Serving OKC, Norman, and Newcastle with affordable, compassionate dental care. Call us today!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://affordable-dental-of-okc-2444a204.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://affordable-dental-of-okc-2444a204.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://affordable-dental-of-okc-2444a204.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://affordable-dental-of-okc-2444a204.zappy5.app/contact
-- Endpoint: https://affordable-dental-of-okc-2444a204.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -74,6 +74,6 @@ Dentistry
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://affordable-dental-of-okc-2444a204.zappy5.app/sitemap.xml
-- Robots: https://affordable-dental-of-okc-2444a204.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://affordable-dental-of-okc-2444a204.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
