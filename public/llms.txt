@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://example.com
+https://affordable-dental-of-okc.zappy5.app
 Searching for preventive dentistry near me in OKC? Keep your smile healthy with gentle, high-tech cleanings and exams at Affordable Dental of OKC. Book your visit today and save!
 
 ### Services
-https://example.com/services
+https://affordable-dental-of-okc.zappy5.app/services
 Dreaming of a flawless smile? Explore our cosmetic dentistry veneers and full smile makeovers in OKC. Advanced tech, gentle care, and stunning results. Schedule your consultation now!
 
 ### About Us
-https://example.com/about
+https://affordable-dental-of-okc.zappy5.app/about
 Experience dentistry with heart. Dr. Jason Chang combines cutting-edge technology with a personal touch, serving OKC families and leading dental missions abroad. Learn his story today!
 
 ### Contact
-https://example.com/contact
+https://affordable-dental-of-okc.zappy5.app/contact
 Ready for a healthier, brighter smile? Contact Affordable Dental of OKC to schedule your visit. Serving OKC, Norman, and Newcastle with affordable, compassionate dental care. Call us today!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://affordable-dental-of-okc.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://affordable-dental-of-okc.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://affordable-dental-of-okc.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -46,8 +46,8 @@ Information about WCAG compliance and accessibility features.
 - Address: 4 SE 59th St, Oklahoma City, OK, 73109, US
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://affordable-dental-of-okc.zappy5.app/contact
+- Endpoint: https://affordable-dental-of-okc.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ Dentistry
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://affordable-dental-of-okc.zappy5.app/sitemap.xml
+- Robots: https://affordable-dental-of-okc.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://affordable-dental-of-okc.zappy5.app/llms-full.txt
