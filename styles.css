@@ -6501,6 +6501,11 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   transform: scale(1.38);
   filter: brightness(1.1);
 }
+
+.home-about-preview-section .home-about-preview-image-wrapper [data-zappy-zoom-wrapper="true"] {
+  width: 360px !important;
+  height: 480px !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
